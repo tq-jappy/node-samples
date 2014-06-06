@@ -1,0 +1,5 @@
+--ui bdd
+--reporter spec
+--timeoust 1000
+--recursive
+--require ./enable-power-assert
