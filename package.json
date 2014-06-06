@@ -1,0 +1,24 @@
+{
+  "name": "node-samples",
+  "version": "0.1.0",
+  "description": "Node.js samples and unit tests",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "espower-loader": "~0.7.1",
+    "power-assert": "~0.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tq-jappy/node-samples.git"
+  },
+  "author": "Takumi Endo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tq-jappy/node-samples/issues"
+  },
+  "homepage": "https://github.com/tq-jappy/node-samples"
+}
