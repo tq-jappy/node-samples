@@ -1,4 +1,4 @@
-describe('Arithmetic', function() {
+describe('Calc', function() {
   beforeEach(function() {
     this.a = 12;
     this.b = 4;
