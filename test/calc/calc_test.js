@@ -1,5 +1,3 @@
-var assert = require('power-assert');
-
 describe('Arithmetic', function() {
   beforeEach(function() {
     this.a = 12;

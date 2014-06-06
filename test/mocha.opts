@@ -3,3 +3,4 @@
 --timeoust 1000
 --recursive
 --require ./enable-power-assert
+--require ./test/test_helper
