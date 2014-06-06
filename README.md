@@ -10,7 +10,7 @@ Node.js samples and unit tests.
 | ``test/http_request`` | HTTP request ( `request`, `http` module) |
 
 
-Unit testing use following libraries:
+Unit tests use following libraries:
 
 - [Mocha](http://visionmedia.github.io/mocha/)
 - [power-assert](https://github.com/twada/power-assert.git)
@@ -24,14 +24,15 @@ $ npm install
 
 ## Run Tests
 
-To run all tests,
+To run all tests:
 
 ```
 $ mocha test
 ```
 
-To run specific test, 
+To run specific test:
 
 ```
-$ mocha path/to/test_dir_or_file
+$ mocha path/to/target_test_dir_or_file
 ```
+
