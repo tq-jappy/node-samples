@@ -2,7 +2,9 @@
   "name": "node-samples",
   "version": "0.1.0",
   "description": "Node.js samples and unit tests",
-  "dependencies": {},
+  "dependencies": {
+    "request": "^2.36.0"
+  },
   "devDependencies": {
     "espower-loader": "~0.7.1",
     "mocha": "^1.20.1",
