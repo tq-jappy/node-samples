@@ -14,6 +14,7 @@ Unit tests use following libraries:
 
 - [Mocha](http://visionmedia.github.io/mocha/)
 - [power-assert](https://github.com/twada/power-assert.git)
+- [espower-coffee](https://github.com/twada/espower-coffee)
 
 ## Setup
 
@@ -28,6 +29,12 @@ To run all tests:
 
 ```
 $ mocha test
+```
+
+or 
+
+```
+$ mocha
 ```
 
 To run specific test:
