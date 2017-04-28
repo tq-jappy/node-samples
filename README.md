@@ -12,7 +12,7 @@ Node.js samples and unit tests.
 
 Unit tests use following libraries:
 
-- [Mocha](http://visionmedia.github.io/mocha/)
+- [Mocha](http://mochajs.org/)
 - [power-assert](https://github.com/twada/power-assert.git)
 - [espower-coffee](https://github.com/twada/espower-coffee)
 
