@@ -19,7 +19,6 @@ Unit tests use following libraries:
 ## Setup
 
 ```
-$ npm install -g mocha
 $ npm install
 ```
 
@@ -28,18 +27,12 @@ $ npm install
 To run all tests:
 
 ```
-$ mocha test
-```
-
-or 
-
-```
-$ mocha
+$ npm run test
 ```
 
 To run specific test:
 
 ```
-$ mocha path/to/target_test_dir_or_file
+$ npx mocha path/to/target_test_dir_or_file
 ```
 
