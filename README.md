@@ -16,6 +16,10 @@ Unit tests use following libraries:
 - [power-assert](https://github.com/twada/power-assert.git)
 - [espower-coffee](https://github.com/twada/espower-coffee)
 
+## Requirements
+
+Node >= 8.9.0
+
 ## Setup
 
 ```
@@ -27,7 +31,7 @@ $ npm install
 To run all tests:
 
 ```
-$ npm run test
+$ npm test
 ```
 
 To run specific test:
